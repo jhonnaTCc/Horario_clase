@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    
+    background-image:url(img/books-1845614_1920.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    
+    
+    
+}
+
+.conteiner{
+    
+   font-family: sans-serif;
+    border: 2px solid gray;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    
+}
+
+
+
+tbody{
+    background-color: white;
+    box-shadow: 20px 20px 20px  -10px  gray;
+    
+}
+
+caption{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    margin-top: 3rem;
+    box-shadow: 20px 20px 20px  -10px gray;
+    background-color: white;
+    
+}
+
+
+col:nth-child(1){
+    background-color: 
+}
+
+td:nth-child(1){
+    background-color: rgba(113,161,220,0.1);
+    
+    
+}
+
+th:nth-child(1){
+    background-color: white;
+}
+
+th{
+    
+    background-color: rgba(0, 0, 0, 0.74);
+    font-weight: bolder;
+    font-size: 1.5rem;
+    color: white;
+    text-shadow: 2px 2px 25px  white;
+    
+    
+}
+
+.recreo{
+    background-color: rgba(113,161,220,0.5);
+}
+
+
+th, td{
+    
+    
+    padding: 15px;
+    border: 20px solid gray;
+    box-shadow:  -5px 5px 15px 5px gray;
+   
+}
+
+/*************************/
+
+main{
+    margin-top: 5rem;
+    min-height: 550px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+
+    
+    
+}
+
+.alumnos article{
+    
+    padding: 3rem;
+    width: 200px;
+    float: left;
+    margin: 2rem;
+    box-shadow: 20px 20px 20px  -10px gray;
+    background-color: white;
+    
+}
+
+img{
+    display: block;
+    object-fit: none;
+    width: 200px;
+    height: 250px;
+}
+
+joseph:hover{
+     
+    background-color: rgba(113,161,220,0.9);
+    padding: 3rem;
+    width: 250px;
+    float: left;
+    margin: 2rem;
+    box-shadow: 20px 20px 20px   gray;
+    
+}
+
