@@ -75,6 +75,10 @@ th{
 
 .recreo{
     background-color: rgba(113,161,220,0.5);
+    letter-spacing: 8rem;
+    text-align: right;
+    padding-left: 9rem;
+    font-weight: bolder;
 }
 
 
