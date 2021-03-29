@@ -119,11 +119,11 @@ img{
     height: 250px;
 }
 
-joseph:hover{
+.joseph:hover, .hilary:hover, .grace:hover{
      
     background-color: rgba(113,161,220,0.9);
     padding: 3rem;
-    width: 250px;
+    width: 200px;
     float: left;
     margin: 2rem;
     box-shadow: 20px 20px 20px   gray;
